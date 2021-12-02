@@ -9,3 +9,4 @@ word() {
    [[ $a = $b ]] && echo "yes" || echo "no";
 }
 isAnagram "the eyes" "they see"
+echo "Edited from github"
